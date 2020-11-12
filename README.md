@@ -14,6 +14,12 @@ In 2020 I enrolled as a student at Scrimba FECP. FECP is a 4 month intensive cod
 ### My beer app
 A webapp that instantly shows you different types of beers, depending on the hoppiness and alcohol volume that you specify.
 
+### React Movie Search App
+Using React I coded an App for searching movies information.
+
+### React Meme Generator
+Using React I coded an App create Memes.
+
 ### Maria´s Travel Blog
 A travel blog for my wife.
 
